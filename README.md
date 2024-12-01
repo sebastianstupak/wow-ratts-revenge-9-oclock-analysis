@@ -13,6 +13,8 @@ Analyzed on:
 'de': 'MJ?IGNPB' // ? = ß
 ```
 
+> NOTE: Noticed handles frequency list not entirely correct - it still gives a good example of possible words
+
 ## Output
 
 Results of analysis can be found in the `data/output/` folder
